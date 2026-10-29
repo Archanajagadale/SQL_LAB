@@ -1,0 +1,1 @@
+Practiced SQL operations including CREATE, INSERT, and DELETE statements, SQL Constraints, GROUP BY with aggregate functions, and Window Functions. Gained hands-on experience in database management, data manipulation, data aggregation, ranking, and data analysis.
